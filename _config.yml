@@ -85,10 +85,10 @@ author:
   bio              : "PhD in Education and HCI"
   location         : "Edinburgh, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Kxqr-SMAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : valentina.andries@gmail.com
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://uk.linkedin.com/in/valentina-andries-9b044a66"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9321-3974"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
