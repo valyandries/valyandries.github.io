@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Valentina Andries, a Researcher at the <b>University of Oxford<b>. Site is still being built - TBD.
+My name is Valentina Andries, a Researcher at the <b>University of Oxford<b>.
 
 <!--
 A data-driven personal website
