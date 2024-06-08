@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,23 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+For an up-to-date CV, please contact me under: first_name [dot] last_name [at] gmail [dot] com.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <b> Ph.D. </b> in Education and Human-Computer Interaction, University of Edinburgh, 2016/21
+* <b> M.Sc. </b> in Augmentative \& Alternative Communication, University of Dundee, 2013/14
+* <b> B.Sc. </b> in Scandinavian Studies \& Spanish (Hons) 2009/13
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Researcher @ <b> University of Oxford </b> in Oxford, UK - Jul 2023-Present
+* Researcher @ <b> University of Edinburgh </b> in Edinburgh, UK - Mar 2022-Jul 2023
+* Teaching Fellow @ <b> University of Edinburgh </b> in Edinburgh, UK - Sep 2018-Aug 2022
   
 Skills
 ======
