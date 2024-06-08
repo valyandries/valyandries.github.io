@@ -16,7 +16,7 @@ As a Postdoctoral Researcher, I have been working on a research project aimed at
 
 My research interests largely lie at the intriguing intersection of education and Human-Computer Interaction (HCI): educational technology, participatory approaches, inclusive design and evaluation of technology, ethics in technology design, AI ethics.
 
-<span style="color:red"> News </span> **Research Publication** Andries, V., & Robertson, J. [**“Alexa doesn’t have that many feelings”: Children’s understanding of AI through interactions with smart speakers in their homes.**](https://arxiv.org/abs/2305.05597)<br/>
+<span style="color:red"> Research </span> **Andries, V., & Robertson, J.** “Alexa doesn’t have that many feelings”: Children’s understanding of AI through interactions with smart speakers in their homes. Available as a preprint on [**ArXiv**](https://arxiv.org/abs/2305.05597)<br/>
 {: .notice}
 
 <!--
