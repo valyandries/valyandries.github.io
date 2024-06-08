@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Valentina Andries, a Researcher at the <b>University of Oxford<b>.
+My name is Valentina Andries, a researcher at the <b>University of Oxford</b>.
+
+I studied towards a PhD in Education and Human-Computer Interaction (HCI) at the <b>University of Edinburgh</b>. My PhD focuses on ethically designing and evaluating digital technology, aimed at supporting young children’s play in a hospital setting. Towards this end, I immersed myself in a hospital setting, allowing me to work closely with children, parents and practitioners.
+
+As a Postdoctoral Researcher, I have been working on a research project aimed at exploring school-aged children’s perceptions of conversational assistants (such as Amazon’s Alexa) and artificial intelligence (AI). Together with Prof. Judy Robertson from the Centre for Research in Digital Education at The University of Edinburgh, I conducted a mixed-methods approach study with primary-school children in Scotland to understand their awareness and how they interact with such systems. I also worked on various other research projects involving children, such as employing a participatory approach with primary and secondary-school children on a project focused on understanding children’s reading motivation.
+
+My research interests largely lie at the intriguing intersection of education and Human-Computer Interaction (HCI): educational technology, participatory approaches, inclusive design and evaluation of technology, ethics in technology design, AI ethics.
+
+<span style="color:red"> News </span> **Research Publication** Andries, V., & Robertson, J. [**“Alexa doesn’t have that many feelings”: Children’s understanding of AI through interactions with smart speakers in their homes.**](https://arxiv.org/abs/2305.05597)<br/>
+{: .notice}
 
 <!--
 A data-driven personal website
