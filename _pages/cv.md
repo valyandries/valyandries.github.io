@@ -18,7 +18,7 @@ Education
 * <b> M.Sc. </b> in Augmentative \& Alternative Communication, University of Dundee, 2013/14
 * <b> B.Sc. </b> in Scandinavian Studies \& Spanish (Hons) 2009/13
 
-Work experience
+Work Experience
 ======
 * Researcher @ <b> University of Oxford </b> in Oxford, UK - Jul 2023-Present
 * Researcher @ <b> University of Edinburgh </b> in Edinburgh, UK - Mar 2022-Jul 2023
