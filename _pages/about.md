@@ -10,12 +10,12 @@ redirect_from:
 
 My name is Valentina Andries, a researcher at the <b>University of Oxford</b>. My research interests largely lie at the intriguing intersection of education and Human-Computer Interaction (HCI): educational technology, participatory approaches, inclusive design and evaluation of technology, ethics in technology design, AI ethics.
 
-#### Background
+### Background
 I studied towards a PhD in Education and Human-Computer Interaction (HCI) at the <b>University of Edinburgh</b>. My PhD focuses on ethically designing and evaluating digital technology, aimed at supporting young children’s play in a hospital setting. Towards this end, I immersed myself in a hospital setting, allowing me to work closely with children, parents and practitioners.
 
 As a Postdoctoral Researcher, I have been working on a research project aimed at exploring school-aged children’s perceptions of conversational assistants (such as Amazon’s Alexa) and artificial intelligence (AI). Together with Prof. Judy Robertson from the Centre for Research in Digital Education at The University of Edinburgh, I conducted a mixed-methods approach study with primary-school children in Scotland to understand their awareness and how they interact with such systems. I also worked on various other research projects involving children, such as employing a participatory approach with primary and secondary-school children on a project focused on understanding children’s reading motivation.
 
-#### Selected Publications
+### Selected Publications
 <span style="color:red"> **Research Update:** </span> **Andries, V., & Robertson, J. (2023).** “Alexa doesn’t have that many feelings”: Children’s understanding of AI through interactions with smart speakers in their homes. Available as a preprint on [**ArXiv**](https://arxiv.org/abs/2305.05597).<br/>
 <span style="color:red"> **Research Update:** </span> **Constantin, A., Andries, V., Korte, J., Alexandru, C., Good, J., Sim, J., Read, J., Fails, J.A., & Eriksson, E. (2022).** Ethical Considerations of Distributed Participatory Design with Children. In Interaction Design and Children (IDC ’22), Braga, Portugal. ACM, New York, NY, USA, DOI: [**https://doi.org/10.1145/3501712.3536386**](https://doi.org/10.1145/3501712.3536386).<br/>
 <span style="color:red"> **Research Update:** </span> **Andries, V., Niven, A., & Smith, C. (Sept 2021).** Social Media Research: Ethical Guidance for Researchers at the University of Edinburgh. Centre for Data, Culture & Society, The University of Edinburgh. [**Available online.**](https://edin.ac/3hTvAhB).<br/>
