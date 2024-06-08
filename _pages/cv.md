@@ -14,6 +14,7 @@ For an up-to-date CV, please contact me under: first_name [dot] last_name [at] g
 Education
 ======
 * <b> Ph.D. </b> in Education and Human-Computer Interaction, University of Edinburgh, 2016/21
+* <b> M.Sc  </b> in Educational Research, University of Edinburgh, 2015/16
 * <b> M.Sc. </b> in Augmentative \& Alternative Communication, University of Dundee, 2013/14
 * <b> B.Sc. </b> in Scandinavian Studies \& Spanish (Hons) 2009/13
 
