@@ -2,7 +2,7 @@
 title: "Growing up a reader: Exploring children’s and adolescents’ perceptions of ‘a reader’"
 collection: publications
 permalink: /publication/2020-Education-Research
-excerpt: "This paper explores how children and adolescents define "a reader," finding common themes such as enjoyment and frequency of reading, but also noting adolescents' broader definition and preference for digital formats, with implications for fostering inclusive reading cultures in schools and promoting participatory research methodologies."
+excerpt: "This paper explores how children and adolescents define 'a reader,' finding common themes such as enjoyment and frequency of reading, but also noting adolescents' broader definition and preference for digital formats, with implications for fostering inclusive reading cultures in schools and promoting participatory research methodologies."
 date: 2020-03-23
 venue: 'Educational Research'
 paperurl: 'https://doi.org/10.1080/00131881.2020.1747361'
