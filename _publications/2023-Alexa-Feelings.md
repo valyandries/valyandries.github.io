@@ -8,7 +8,7 @@ venue: 'Computers and Education: Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.caeai.2023.100176'
 citation: 'Andries, V., & Robertson, J. (2023). Alexa doesn't have that many feelings: Children's understanding of AI through interactions with smart speakers in their homes. Computers and Education: Artificial Intelligence, 5, 100176. https://doi.org/10.1016/j.caeai.2023.100176'
 ---
-[Access Journal Here](https://doi.org/10.1016/j.caeai.2023.100176)
+[Access Journal Here](https://doi.org/10.1016/j.caeai.2023.100176) 
 [Access Preprint here](https://arxiv.org/abs/2305.05597)
 
 Recommended citation: Andries, V., & Robertson, J. (2023). Alexa doesn't have that many feelings: Children's understanding of AI through interactions with smart speakers in their homes. Computers and Education: Artificial Intelligence, 5, 100176. https://doi.org/10.1016/j.caeai.2023.100176
