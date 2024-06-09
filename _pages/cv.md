@@ -15,8 +15,8 @@ Education
 ======
 * <b> Ph.D. </b> in Education and Human-Computer Interaction, University of Edinburgh, 2016/21
 * <b> M.Sc  </b> in Educational Research, University of Edinburgh, 2015/16
-* <b> M.Sc. </b> in Augmentative \& Alternative Communication, University of Dundee, 2013/14
-* <b> B.Sc. </b> in Scandinavian Studies \& Spanish (Hons) 2009/13
+* <b> M.Sc. </b> in Augmentative and Alternative Communication, University of Dundee, 2013/14
+* <b> B.Sc. </b> in Scandinavian Studies and Spanish (Hons) 2009/13
 
 Work Experience
 ======
@@ -26,12 +26,19 @@ Work Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative Research
+* Participatory Methodologies
+* User-Centred Methods
+* Higher Education Teaching
+* Student Supervision
+
+Languages
+======
+* English (Fluent)
+* Romanian (Native)
+* Spanish (Advanced)
+* French (Intermediate)
+* Swedish (Beginner)
 
 Publications
 ======
