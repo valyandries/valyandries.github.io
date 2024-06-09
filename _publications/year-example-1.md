@@ -8,8 +8,7 @@ venue: 'Computers and Education: Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.caeai.2023.100176'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-[Access Journal Here](https://doi.org/10.1016/j.caeai.2023.100176)<br />
-[Access Preprint here](https://arxiv.org/abs/2305.05597)
+You can access the Journal paper [here](https://doi.org/10.1016/j.caeai.2023.100176) and the preprint [here](https://arxiv.org/abs/2305.05597).
 
 **Recommended citation:** Andries, V., & Robertson, J. (2023). Alexa doesn't have that many feelings: Children's understanding of AI through interactions with smart speakers in their homes. Computers and Education: Artificial Intelligence, 5, 100176. https://doi.org/10.1016/j.caeai.2023.100176
 
