@@ -2,8 +2,8 @@
 title: "Alexa doesn’t have that many feelings: Children’s understanding of AI through interactions with smart speakers in their homes."
 collection: publications
 permalink: /publication/year-example-1
-excerpt: 'This paper explores primary-school children's understanding and perceptions of voice-based Conversational Assistants (CAs), revealing overestimations of the CAs' intelligence, uncertainties about their agency, and gaps in knowledge about data privacy, with implications for developing AI literacy educational materials.'
-date: 2023-5
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-10-01
 venue: 'Computers and Education: Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.caeai.2023.100176'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
