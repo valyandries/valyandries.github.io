@@ -3,7 +3,7 @@ title: "Alexa doesn’t have that many feelings: Children’s understanding of A
 collection: publications
 permalink: /publication/year-example-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-10-01
+date: 2023-5
 venue: 'Computers and Education: Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.caeai.2023.100176'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
