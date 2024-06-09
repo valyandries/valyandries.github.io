@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Example 1"
+title: "Alexa doesn’t have that many feelings: Children’s understanding of AI through interactions with smart speakers in their homes."
 collection: publications
 permalink: /publication/year-example-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
