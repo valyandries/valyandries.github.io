@@ -11,7 +11,7 @@ redirect_from:
 My name is Valentina Andries, a researcher at the <b>University of Oxford</b>. My research interests largely lie at the intriguing intersection of education and Human-Computer Interaction (HCI): educational technology, participatory approaches, inclusive design and evaluation of technology, ethics in technology design, AI ethics.
 
 <div style="text-align: center;">
-  <img src="/images/image-alignment-1200x4002.jpg" alt="Valentina Andries" style="width: 70%;">
+  <img src="/images/banner_va.png" alt="Valentina Andries" style="width: 70%;">
   <div style="font-size: smaller;">
     **Caption** <i>Your caption text here.</i>
   </div>
