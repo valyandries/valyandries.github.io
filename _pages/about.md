@@ -13,7 +13,7 @@ My name is Valentina Andries, a researcher at the <b>University of Oxford</b>. M
 <div style="text-align: center;">
   <img src="/images/banner_va.png" alt="Valentina Andries" style="width: 90%;">
   <div style="font-size: smaller;">
-  <b>Caption:</b> <i> The development of the Lolli and Friends application for my doctoral research, aimed at fostering children's play, parents and practitioners in a hospital setting. <a href="https://marialuisalima.com/portfolio/vector-illustrations-app/">Graphical design by Maria Lu&iacute;sa Lima</a>.</i>
+  <i> The development of the <b>Lolli and Friends</b> application for my doctoral research, aimed at fostering children's play, parents and practitioners in a hospital setting. <a href="https://marialuisalima.com/portfolio/vector-illustrations-app/">Graphical design by Maria Lu&iacute;sa Lima</a>.</i>
   </div>
 </div>
 
