@@ -10,6 +10,13 @@ redirect_from:
 
 My name is Valentina Andries, a researcher at the <b>University of Oxford</b>. My research interests largely lie at the intriguing intersection of education and Human-Computer Interaction (HCI): educational technology, participatory approaches, inclusive design and evaluation of technology, ethics in technology design, AI ethics.
 
+<div style="text-align: center;">
+  <img src="/images/image-alignment-1200x4002.jpg" alt="Valentina Andries" style="width: 70%;">
+  <div style="font-size: smaller;">
+    **Caption** <i>Your caption text here.</i>
+  </div>
+</div>
+
 ### Background
 I studied towards a PhD in Education and Human-Computer Interaction (HCI) at the <b>University of Edinburgh</b>. My PhD focuses on ethically designing and evaluating digital technology, aimed at supporting young children’s play in a hospital setting. Towards this end, I immersed myself in a hospital setting, allowing me to work closely with children, parents and practitioners.
 
